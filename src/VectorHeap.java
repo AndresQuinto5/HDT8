@@ -1,8 +1,9 @@
 import java.util.PriorityQueue;
 import java.util.Vector;
 /**
- *
+ *Heap referenciado de:
  * @author ,2001 duane a. bailey
+ * http://www.cs.williams.edu/~bailey/JavaStructures2/bailey/structure/VectorHeap.java
  */
 public class VectorHeap<E extends Comparable<E>> extends PriorityQueue<E>
 {
